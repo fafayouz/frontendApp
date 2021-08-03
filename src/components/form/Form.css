@@ -1,0 +1,17 @@
+.Form-Container {
+    width: 70%;
+    height: 50%;
+    border-radius: 0.4rem;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.Form-Message {
+    width: 55%;
+    height: 10%;
+    display: flex;
+    justify-content: center;align-items: center;
+    margin-bottom: 1rem;
+}

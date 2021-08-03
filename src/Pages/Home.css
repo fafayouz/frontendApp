@@ -1,0 +1,22 @@
+.Page-Home {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+.Home-Title-Box {
+    width: 100%;
+    height: 15vh;
+    background-color: yellow;
+}
+.Dashbord-Home {
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+}

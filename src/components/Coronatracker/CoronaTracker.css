@@ -1,0 +1,32 @@
+.Covid-Form {
+    width: 80%;
+    height: 50%;
+    background-color: white;
+    border-radius: 0.4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.Cases-Box {
+    width: 25%;
+    height: 20%;
+    background-color: rgb(219, 219, 219);
+    margin: 0.5rem;
+    border-radius: 0.3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+    font-weight: bold;
+}
+.Cases-Box2 {
+    width: 25%;
+    height: 20%;
+    margin: 0.5rem;
+    border-radius: 0.3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
